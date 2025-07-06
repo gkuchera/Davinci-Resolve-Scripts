@@ -1,7 +1,7 @@
 # Davinci Resolve Scripts
 This repository for hopefully useful scripts for Davinci Resolve:
 
-##ClipStock.py: This script was written to help grab sections of video clips for uploading to stock video sites.  Most sites require 30-60 second clips of video.  This is how I use this script:
+**ClipStock.py:** This script was written to help grab sections of video clips for uploading to stock video sites.  Most sites require 30-60 second clips of video.  This is how I use this script:
   1. load all my new video clips into the media library of Davinci Resolve.
   2. add the clips to a generic timeline.
   3. play through the video
