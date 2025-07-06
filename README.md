@@ -1,2 +1,5 @@
 # Davinci Resolve Scripts
-Davinci REsolve Scripts
+
+Davinci Resolve Scripts
+
+
